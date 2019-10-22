@@ -1,4 +1,7 @@
 %TEMPARATURE_CONVERSIONS
+%Check temperature conversions between Kelvin, fahrenheit, celsius and
+%newton
+
 
 %Save degree symbol as a variable
 deg=char(176);
