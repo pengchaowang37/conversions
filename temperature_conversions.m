@@ -3,7 +3,7 @@
 %Check temperature conversions between Kelvin, fahrenheit, celsius and
 %newton
 
-
+%plot some boring things
 
 %Save degree symbol as a variable
 deg=char(176);
